@@ -1,5 +1,7 @@
 # udacity-learn-cloud-developer-project-2
 
-Elastic Beanstalk url: udacity-learn-cloud-developer-project-2.us-east-1.elasticbeanstalk.com
+> Screenshot of Amazon Elastic Beanstalk dashboard is attached in repos
 
-sample url for filtering image: http://udacity-learn-cloud-developer-project-2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://live.staticflickr.com/131/371380275_95452cf9f3_b.jpg
+>[Elastic Beanstalk endpoint](http://udacity-learn-cloud-developer-project-2.us-east-1.elasticbeanstalk.com)
+
+>[Sample url for filtering image](http://udacity-learn-cloud-developer-project-2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg)
