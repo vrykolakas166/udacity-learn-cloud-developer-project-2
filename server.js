@@ -77,7 +77,7 @@ app.get("/filteredimage", async (req, res) => {
     const filteredImagePath = await filterImageFromURL(imageUrl);
 
     // Send the resulting file in the response
-    res.sendFile(filteredImagePath, async (err) => {
+    res.status(200).sendFile(filteredImagePath, async (err) => {
       if (err) {
         return res.status(500).send('Error sending file');
       }
